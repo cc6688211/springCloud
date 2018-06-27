@@ -9,21 +9,24 @@
 	<name>demo</name>
 	<description>springCloud学习</description>
 
+	<!-- 指定spring boot版本 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.0.2.RELEASE</version>
+		<version>2.0.3.RELEASE</version>
 		<relativePath />
 		<!-- lookup parent from repository -->
 	</parent>
 
+	<!-- 指定spring cloud版本和jdk版本 -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<spring-cloud.version>Finchley.RC2</spring-cloud.version>
+		<spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
 	</properties>
 
+	<!-- 引入 spring-cloud模块 -->
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -35,7 +38,9 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+
 	<dependencies>
+		<!-- 引入 spring-boot测试模块 -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -45,6 +50,7 @@
 
 	<build>
 		<plugins>
+			<!-- 引入 spring-boot插件模块 -->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
