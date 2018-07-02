@@ -82,5 +82,7 @@
 		<module>eurekaDiscoveryHealth</module>
 		<module>sleuthEurekaDiscovery</module>
 		<module>sleuthRibbon</module>
+		<module>zipkinServer</module>
+		<module>zipkinServer4Mysql</module>
 	</modules>
 </project>

@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
+encoding//eurekaServer/src/main/resources/application.properties=UTF-8
+encoding//hystrix/src/main/resources/application.properties=UTF-8
 encoding/<project>=UTF-8
