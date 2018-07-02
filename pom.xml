@@ -78,5 +78,9 @@
 		<module>turbineStream</module>
 		<module>hystrixTurbineStreamRabbitmq</module>
 		<module>zuul</module>
+		<module>swaggerA</module>
+		<module>eurekaDiscoveryHealth</module>
+		<module>sleuthEurekaDiscovery</module>
+		<module>sleuthRibbon</module>
 	</modules>
 </project>
