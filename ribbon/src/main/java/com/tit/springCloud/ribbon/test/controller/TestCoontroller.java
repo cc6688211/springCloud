@@ -15,4 +15,9 @@ public class TestCoontroller {
 	public String test() {
 		return restTemplate.getForEntity("http://EUREKA-CLIENT/dc", String.class).getBody();
 	}
+
+	@RequestMapping(value = "/test1", method = RequestMethod.GET)
+	public String test1() {
+		return restTemplate.getForEntity("http://EUREKA-CLIENT-HEALTH/dc", String.class).getBody();
+	}
 }
