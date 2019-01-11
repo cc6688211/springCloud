@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.sleuthRibbon.controller;
+package pers.cc.springCloud.sleuthRibbon.controller;

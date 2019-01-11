@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.hystrix.test.controller;
+package pers.cc.springCloud.hystrix.test.controller;

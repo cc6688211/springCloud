@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.feign;
+package pers.cc.springCloud.feign;

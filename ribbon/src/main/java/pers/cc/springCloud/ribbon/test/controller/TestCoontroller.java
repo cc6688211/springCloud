@@ -1,4 +1,4 @@
-package com.tit.springCloud.ribbon.test.controller;
+package pers.cc.springCloud.ribbon.test.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

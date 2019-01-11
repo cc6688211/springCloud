@@ -1,4 +1,4 @@
-package com.tit.springCloud.hystrixTurbineStreamRabbitmq.test.controller;
+package pers.cc.springCloud.hystrixTurbineStreamRabbitmq.test.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

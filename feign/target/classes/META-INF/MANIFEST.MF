@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: feign
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: cc
-Implementation-Vendor-Id: com.tit
+Implementation-Vendor-Id: pers.cc
 Build-Jdk: 1.8.0_171
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/springCloud/feign

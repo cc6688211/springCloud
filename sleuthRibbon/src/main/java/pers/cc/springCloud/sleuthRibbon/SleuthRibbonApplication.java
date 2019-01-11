@@ -1,4 +1,4 @@
-package com.tit.springCloud.sleuthRibbon;
+package pers.cc.springCloud.sleuthRibbon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

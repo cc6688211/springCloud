@@ -1,4 +1,4 @@
-package com.tit.springCloud.sleuthEurekaDiscovery.controller;
+package pers.cc.springCloud.sleuthEurekaDiscovery.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

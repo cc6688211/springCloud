@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.feign.test.controller;
+package pers.cc.springCloud.feign.test.controller;

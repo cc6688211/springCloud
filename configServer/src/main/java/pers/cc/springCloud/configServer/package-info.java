@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.configServer;
+package pers.cc.springCloud.configServer;

@@ -1,4 +1,4 @@
-package com.tit.eurekaDiscoveryHealth.component;
+package pers.cc.eurekaDiscoveryHealth.component;
 
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.HealthIndicator;

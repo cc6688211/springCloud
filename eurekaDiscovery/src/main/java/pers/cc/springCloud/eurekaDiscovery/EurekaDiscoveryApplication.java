@@ -1,4 +1,4 @@
-package com.tit.springCloud.eurekaDiscovery;
+package pers.cc.springCloud.eurekaDiscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

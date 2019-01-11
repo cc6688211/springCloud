@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.eurekaDiscoveryHealth;
+package pers.cc.eurekaDiscoveryHealth;

@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.ribbon.test;
+package pers.cc.springCloud.ribbon.test;

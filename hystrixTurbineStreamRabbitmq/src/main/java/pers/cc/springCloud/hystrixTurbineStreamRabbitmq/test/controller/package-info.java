@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.hystrixTurbineStreamRabbitmq.test.controller;
+package pers.cc.springCloud.hystrixTurbineStreamRabbitmq.test.controller;

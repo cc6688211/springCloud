@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.hystrix;
+package pers.cc.springCloud.hystrix;

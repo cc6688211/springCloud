@@ -1,4 +1,4 @@
-package com.tit.springCloud.sleuthRibbon.controller;
+package pers.cc.springCloud.sleuthRibbon.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

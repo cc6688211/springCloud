@@ -1,4 +1,4 @@
-package com.tit.springCloud.eurekaServer;
+package pers.cc.springCloud.eurekaServer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

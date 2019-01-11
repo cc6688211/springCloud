@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.sleuthEurekaDiscovery.controller;
+package pers.cc.springCloud.sleuthEurekaDiscovery.controller;

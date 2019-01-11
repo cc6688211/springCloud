@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.eurekaDiscovery.test.controller;
+package pers.cc.springCloud.eurekaDiscovery.test.controller;

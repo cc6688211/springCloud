@@ -1,4 +1,4 @@
-package com.tit.springCloud.hystrixDashboard;
+package pers.cc.springCloud.hystrixDashboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.tit.springCloud.feign;
+package pers.cc.springCloud.feign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

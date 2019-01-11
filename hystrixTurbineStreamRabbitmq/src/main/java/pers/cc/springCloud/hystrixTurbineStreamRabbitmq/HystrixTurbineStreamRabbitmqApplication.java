@@ -1,4 +1,4 @@
-package com.tit.springCloud.hystrixTurbineStreamRabbitmq;
+package pers.cc.springCloud.hystrixTurbineStreamRabbitmq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

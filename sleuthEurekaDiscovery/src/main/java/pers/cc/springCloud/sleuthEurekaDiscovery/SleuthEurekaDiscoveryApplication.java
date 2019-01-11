@@ -1,4 +1,4 @@
-package com.tit.springCloud.sleuthEurekaDiscovery;
+package pers.cc.springCloud.sleuthEurekaDiscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

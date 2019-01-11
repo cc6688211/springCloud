@@ -5,4 +5,4 @@
  * @author cc
  *
  */
-package com.tit.springCloud.eurekaServer;
+package pers.cc.springCloud.eurekaServer;
